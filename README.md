@@ -12,7 +12,7 @@ I graduated from Saratov State University and I'm currently pursuing a master's 
 
   <img src="https://github-profile-trophy.vercel.app/?username=PosokhovVadim&theme=radical&margin-w=15&row=1&column=3" alt="GitHub Trophies"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PosokhovVadim&layout=compact&theme=radical&langs_count=7&exclude_repo=TempController,HSE-Python-for-Data-Engineering" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PosokhovVadim&layout=compact&theme=radical&langs_count=7&exclude_repo=TempController" alt="Top Languages">
 </div>
 
 
